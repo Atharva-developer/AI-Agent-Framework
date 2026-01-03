@@ -1,0 +1,22 @@
+## Core runtime
+fastapi
+uvicorn[standard]
+
+## Messaging
+kafka-python
+
+## AI / ML (core)
+torch
+transformers
+numpy
+scipy
+
+## Optional / Hardware-accelerated (install only if you need them)
+# optimum-intel
+# openvino
+# nncf
+# accelerate
+
+# Notes:
+# - Pin versions as needed for your environment; keep the list minimal for local dev.
+# - Optional Intel/OpenVINO packages are commented out — enable them only on supported hardware.
