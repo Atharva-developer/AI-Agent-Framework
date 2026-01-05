@@ -1,0 +1,964 @@
+2026-01-05 12:15:41 - src.load_balancer - INFO - LoadBalancer initialized with strategy: round_robin
+2026-01-05 12:19:41 - src.load_balancer - INFO - LoadBalancer initialized with strategy: round_robin
+2026-01-05 12:19:41 - __main__ - INFO - Initializing database...
+2026-01-05 12:19:41 - __main__ - INFO - Starting REST API server...
+2026-01-05 12:19:42 - src.api - INFO - Starting API server on 127.0.0.1:8000
+2026-01-05 12:24:11 - src.load_balancer - INFO - LoadBalancer initialized with strategy: round_robin
+2026-01-05 12:24:44 - src.load_balancer - INFO - LoadBalancer initialized with strategy: round_robin
+2026-01-05 12:24:44 - __main__ - INFO - Initializing database...
+2026-01-05 12:24:44 - __main__ - INFO - Starting REST API server...
+2026-01-05 12:24:44 - src.api - INFO - Starting API server on 127.0.0.1:8000
+2026-01-05 12:29:01 - src.load_balancer - INFO - LoadBalancer initialized with strategy: round_robin
+2026-01-05 12:29:01 - __main__ - INFO - Initializing database...
+2026-01-05 12:29:01 - __main__ - INFO - Starting REST API server...
+2026-01-05 12:29:01 - src.api - INFO - Starting API server on 127.0.0.1:8000
+2026-01-05 12:35:47 - src.load_balancer - INFO - LoadBalancer initialized with strategy: round_robin
+2026-01-05 12:35:47 - __main__ - INFO - Initializing database...
+2026-01-05 12:35:47 - __main__ - INFO - Starting REST API server...
+2026-01-05 12:35:48 - src.api - INFO - Starting API server on 127.0.0.1:8000
+2026-01-05 12:39:51 - Agent.LiteWorker-1 - INFO - 🔌 Connecting to Kafka...
+2026-01-05 12:39:51 - Agent.LiteWorker-1 - INFO - ✅ Ready (Lite Mode - No Heavy AI Model)
+2026-01-05 12:39:51 - Agent.LiteWorker-1 - INFO - 👂 Listening for tasks...
+2026-01-05 12:39:52 - Agent.LiteWorker-1 - INFO - 📨 Picked up task task_math_01: calculate 150 * 4
+2026-01-05 12:39:52 - Agent.LiteWorker-1 - INFO - 🛠️ Tool Triggered: Calculator
+2026-01-05 12:39:52 - Agent.LiteWorker-1 - INFO - 🔢 Tool Output: Result: 600
+2026-01-05 12:39:52 - Agent.LiteWorker-1 - INFO - 📤 Result sent back (0.00s)
+2026-01-05 12:39:52 - src.logging - INFO - Task completed. Execution time: 0.00s
+2026-01-05 12:39:52 - Agent.LiteWorker-1 - INFO - 📨 Picked up task task_math_01: calculate 150 * 4
+2026-01-05 12:39:52 - Agent.LiteWorker-1 - INFO - 🛠️ Tool Triggered: Calculator
+2026-01-05 12:39:52 - Agent.LiteWorker-1 - INFO - 🔢 Tool Output: Result: 600
+2026-01-05 12:39:52 - Agent.LiteWorker-1 - INFO - 📤 Result sent back (0.00s)
+2026-01-05 12:39:52 - src.logging - INFO - Task completed. Execution time: 0.00s
+2026-01-05 12:39:52 - Agent.LiteWorker-1 - INFO - 📨 Picked up task task_math_01: calculate 150 * 4
+2026-01-05 12:39:52 - Agent.LiteWorker-1 - INFO - 🛠️ Tool Triggered: Calculator
+2026-01-05 12:39:52 - Agent.LiteWorker-1 - INFO - 🔢 Tool Output: Result: 600
+2026-01-05 12:39:52 - Agent.LiteWorker-1 - INFO - 📤 Result sent back (0.00s)
+2026-01-05 12:39:52 - src.logging - INFO - Task completed. Execution time: 0.00s
+2026-01-05 12:39:52 - Agent.LiteWorker-1 - INFO - 📨 Picked up task task_math_01: calculate 150 * 4
+2026-01-05 12:39:52 - Agent.LiteWorker-1 - INFO - 🛠️ Tool Triggered: Calculator
+2026-01-05 12:39:52 - Agent.LiteWorker-1 - INFO - 🔢 Tool Output: Result: 600
+2026-01-05 12:39:52 - Agent.LiteWorker-1 - INFO - 📤 Result sent back (0.00s)
+2026-01-05 12:39:52 - src.logging - INFO - Task completed. Execution time: 0.00s
+2026-01-05 12:46:52 - src.load_balancer - INFO - LoadBalancer initialized with strategy: round_robin
+2026-01-05 12:46:52 - __main__ - INFO - Initializing database...
+2026-01-05 12:46:52 - __main__ - INFO - Starting REST API server...
+2026-01-05 12:46:52 - src.api - INFO - Starting API server on 127.0.0.1:8000
+2026-01-05 12:47:24 - Agent.LiteWorker-1 - INFO - 🔌 Connecting to Kafka...
+2026-01-05 12:47:24 - Agent.LiteWorker-1 - INFO - ✅ Ready (Lite Mode - No Heavy AI Model)
+2026-01-05 12:47:24 - Agent.LiteWorker-1 - INFO - 👂 Listening for tasks...
+2026-01-05 12:47:48 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:47:48 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:47:49 - src.logging - INFO - Task submitted to queue.
+2026-01-05 12:47:49 - src.api - INFO - Task task_21427a971349 submitted by user 355f5338-0b6d-471e-bf76-ec6cb4cd3079
+2026-01-05 12:47:49 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:47:49 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:47:49 - src.logging - INFO - Task submitted to queue.
+2026-01-05 12:47:49 - src.api - INFO - Task task_0385c57ca1c5 submitted by user 355f5338-0b6d-471e-bf76-ec6cb4cd3079
+2026-01-05 12:47:49 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:47:49 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:47:49 - src.logging - INFO - Task submitted to queue.
+2026-01-05 12:47:49 - src.api - INFO - Task task_10bec991d6ad submitted by user 355f5338-0b6d-471e-bf76-ec6cb4cd3079
+2026-01-05 12:47:49 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:47:49 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:47:49 - src.logging - INFO - Task submitted to queue.
+2026-01-05 12:47:49 - src.api - INFO - Task task_8efb18bf3c4b submitted by user 355f5338-0b6d-471e-bf76-ec6cb4cd3079
+2026-01-05 12:47:49 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:47:49 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:47:49 - src.logging - INFO - Task submitted to queue.
+2026-01-05 12:47:49 - src.api - INFO - Task task_26f2b973f4ea submitted by user 355f5338-0b6d-471e-bf76-ec6cb4cd3079
+2026-01-05 12:47:50 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:47:50 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:47:50 - src.logging - INFO - Task submitted to queue.
+2026-01-05 12:47:50 - src.api - INFO - Task task_800ebee9a09f submitted by user 355f5338-0b6d-471e-bf76-ec6cb4cd3079
+2026-01-05 12:47:50 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:47:50 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:47:50 - src.logging - INFO - Task submitted to queue.
+2026-01-05 12:47:50 - src.api - INFO - Task task_f78850ec3cff submitted by user 355f5338-0b6d-471e-bf76-ec6cb4cd3079
+2026-01-05 12:47:50 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:47:50 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:47:50 - src.logging - INFO - Task submitted to queue.
+2026-01-05 12:47:50 - src.api - INFO - Task task_235e83e18685 submitted by user 355f5338-0b6d-471e-bf76-ec6cb4cd3079
+2026-01-05 12:47:52 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:47:52 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:47:52 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:47:52 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:47:52 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:47:52 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:47:52 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:47:52 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:47:52 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:47:52 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:47:52 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:47:52 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:47:52 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:47:52 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:47:52 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:47:52 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:47:55 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:47:55 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:47:55 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:47:55 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:47:55 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:47:55 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:47:55 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:47:55 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:47:55 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:47:55 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:47:55 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:47:55 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:47:55 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:47:55 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:47:55 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:47:55 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:47:57 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:47:57 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:47:57 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:47:57 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:47:57 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:47:57 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:47:57 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:47:57 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:47:57 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:47:57 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:47:57 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:47:57 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:47:57 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:47:57 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:47:57 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:47:57 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:47:59 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:47:59 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:47:59 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:47:59 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:47:59 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:47:59 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:47:59 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:47:59 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:47:59 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:47:59 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:47:59 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:47:59 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:47:59 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:47:59 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:47:59 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:47:59 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:01 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:01 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:01 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:01 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:01 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:01 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:01 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:01 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:01 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:01 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:01 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:01 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:01 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:01 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:01 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:01 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:03 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:03 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:03 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:03 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:03 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:03 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:03 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:03 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:03 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:03 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:03 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:03 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:03 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:03 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:03 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:03 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:05 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:05 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:05 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:05 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:05 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:05 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:05 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:05 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:05 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:05 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:05 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:05 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:05 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:05 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:05 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:05 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:07 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:07 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:07 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:07 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:08 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:08 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:08 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:08 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:08 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:08 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:08 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:08 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:08 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:08 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:08 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:08 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:10 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:10 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:10 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:10 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:10 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:10 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:10 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:10 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:10 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:10 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:10 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:10 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:10 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:10 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:10 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:10 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:12 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:12 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:12 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:12 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:12 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:12 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:12 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:12 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:12 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:12 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:12 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:12 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:12 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:12 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:12 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:12 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:14 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:14 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:14 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:14 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:14 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:14 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:14 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:14 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:14 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:14 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:14 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:14 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:14 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:14 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:14 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:14 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:16 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:16 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:17 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:17 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:17 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:17 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:17 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:17 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:17 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:17 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:17 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:17 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:17 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:17 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:17 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:17 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:19 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:19 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:19 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:19 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:19 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:19 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:19 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:19 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:19 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:19 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:19 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:19 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:19 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:19 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:19 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:19 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:31 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:31 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:33 - src.logging - INFO - Task submitted to queue.
+2026-01-05 12:48:33 - src.api - INFO - Task task_3010db4bdf2f submitted by user 355f5338-0b6d-471e-bf76-ec6cb4cd3079
+2026-01-05 12:48:33 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:33 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:33 - src.logging - INFO - Task submitted to queue.
+2026-01-05 12:48:33 - src.api - INFO - Task task_1b21a68adb08 submitted by user 355f5338-0b6d-471e-bf76-ec6cb4cd3079
+2026-01-05 12:48:34 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:34 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:34 - src.logging - INFO - Task submitted to queue.
+2026-01-05 12:48:34 - src.api - INFO - Task task_a06cb9136846 submitted by user 355f5338-0b6d-471e-bf76-ec6cb4cd3079
+2026-01-05 12:48:34 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:34 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:34 - src.logging - INFO - Task submitted to queue.
+2026-01-05 12:48:34 - src.api - INFO - Task task_0c9985d7adbd submitted by user 355f5338-0b6d-471e-bf76-ec6cb4cd3079
+2026-01-05 12:48:34 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:34 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:34 - src.logging - INFO - Task submitted to queue.
+2026-01-05 12:48:34 - src.api - INFO - Task task_10008a03d8bb submitted by user 355f5338-0b6d-471e-bf76-ec6cb4cd3079
+2026-01-05 12:48:34 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:34 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:34 - src.logging - INFO - Task submitted to queue.
+2026-01-05 12:48:34 - src.api - INFO - Task task_c7b6b6134483 submitted by user 355f5338-0b6d-471e-bf76-ec6cb4cd3079
+2026-01-05 12:48:35 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:35 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:35 - src.logging - INFO - Task submitted to queue.
+2026-01-05 12:48:35 - src.api - INFO - Task task_cb29f797598d submitted by user 355f5338-0b6d-471e-bf76-ec6cb4cd3079
+2026-01-05 12:48:35 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:35 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:35 - src.logging - INFO - Task submitted to queue.
+2026-01-05 12:48:35 - src.api - INFO - Task task_3b4c412d73b4 submitted by user 355f5338-0b6d-471e-bf76-ec6cb4cd3079
+2026-01-05 12:48:37 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:37 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:37 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:37 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:37 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:37 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:37 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:37 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:37 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:37 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:37 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:37 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:37 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:37 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:37 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:37 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:39 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:39 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:39 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:39 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:39 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:39 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:39 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:39 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:39 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:39 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:39 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:39 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:39 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:39 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:39 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:39 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:42 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:42 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:42 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:42 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:42 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:42 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:42 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:42 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:42 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:42 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:42 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:42 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:42 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:42 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:42 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:42 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:44 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:44 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:44 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:44 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:44 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:44 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:44 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:44 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:44 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:44 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:44 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:44 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:44 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:44 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:44 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:44 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:46 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:46 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:46 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:46 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:46 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:46 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:46 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:46 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:46 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:46 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:46 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:46 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:46 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:46 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:46 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:46 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:49 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:49 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:49 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:49 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:49 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:49 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:49 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:49 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:49 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:49 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:49 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:49 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:49 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:49 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:49 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:49 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:51 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:51 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:51 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:51 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:51 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:51 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:51 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:51 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:51 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:51 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:51 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:51 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:51 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:51 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:51 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:51 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:53 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:53 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:53 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:53 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:53 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:53 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:53 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:53 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:53 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:53 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:53 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:53 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:53 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:53 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:53 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:53 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:55 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:55 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:55 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:55 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:55 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:55 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:55 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:55 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:55 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:55 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:55 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:55 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:55 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:55 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:55 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:55 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:57 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:57 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:57 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:57 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:57 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:57 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:57 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:57 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:57 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:57 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:57 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:57 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:57 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:57 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:57 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:48:57 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:00 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:00 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:00 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:00 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:00 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:00 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:00 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:00 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:00 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:00 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:00 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:00 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:00 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:00 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:00 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:00 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:02 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:02 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:02 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:02 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:02 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:02 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:02 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:02 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:02 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:02 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:02 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:02 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:02 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:02 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:02 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:02 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:04 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:04 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:04 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:04 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:04 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:04 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:04 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:04 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:04 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:04 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:04 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:04 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:04 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:04 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:04 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:04 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:06 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:06 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:06 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:06 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:06 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:06 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:06 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:06 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:06 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:06 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:06 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:06 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:06 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:06 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:06 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:06 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:06 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:06 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:06 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:06 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:06 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:06 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:06 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:06 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:06 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:06 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:06 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:06 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:06 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:06 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:06 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:06 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:08 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:08 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:08 - src.logging - INFO - Task submitted to queue.
+2026-01-05 12:49:08 - src.api - INFO - Task task_7bac6052a3e2 submitted by user 355f5338-0b6d-471e-bf76-ec6cb4cd3079
+2026-01-05 12:49:10 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:10 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:12 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:12 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:14 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:14 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:16 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:16 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:18 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:18 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:20 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:20 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:23 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:23 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:25 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:25 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:28 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:28 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:30 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:30 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:32 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:32 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:35 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:35 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:37 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:37 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:39 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:39 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:41 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:49:41 - src.api.security - INFO - API key used by user: admin
+2026-01-05 12:50:41 - Agent.LiteWorker-1 - INFO - 🔌 Connecting to Kafka...
+2026-01-05 12:50:41 - Agent.LiteWorker-1 - INFO - ✅ Ready (Lite Mode - No Heavy AI Model)
+2026-01-05 12:50:41 - Agent.LiteWorker-1 - INFO - 👂 Listening for tasks...
+2026-01-05 12:50:42 - Agent.LiteWorker-1 - INFO - 📨 Picked up task task_21427a971349: calculate 150 * 4
+2026-01-05 12:50:42 - Agent.LiteWorker-1 - INFO - 🛠️ Tool Triggered: Calculator
+2026-01-05 12:50:42 - Agent.LiteWorker-1 - INFO - 🔢 Tool Output: Result: 600
+2026-01-05 12:50:42 - Agent.LiteWorker-1 - INFO - 📤 Result sent back (0.00s)
+2026-01-05 12:50:42 - src.logging - INFO - Task completed. Execution time: 0.00s
+2026-01-05 12:50:42 - Agent.LiteWorker-1 - INFO - 📨 Picked up task task_0385c57ca1c5: calculate (100 + 50) / 2 - 25
+2026-01-05 12:50:42 - Agent.LiteWorker-1 - INFO - 🛠️ Tool Triggered: Calculator
+2026-01-05 12:50:42 - Agent.LiteWorker-1 - INFO - 🔢 Tool Output: Result: 50.0
+2026-01-05 12:50:42 - Agent.LiteWorker-1 - INFO - 📤 Result sent back (0.00s)
+2026-01-05 12:50:42 - src.logging - INFO - Task completed. Execution time: 0.00s
+2026-01-05 12:50:42 - Agent.LiteWorker-1 - INFO - 📨 Picked up task task_10bec991d6ad: analyze text the quick brown fox jumps over the lazy dog. this is a second sentence. and a third.
+2026-01-05 12:50:42 - Agent.LiteWorker-1 - INFO - 🛠️ Tool Triggered: Text Analysis
+2026-01-05 12:50:42 - Agent.LiteWorker-1 - INFO - 📊 Tool Output: Text Analysis: 17 words, 84 chars, 3 sentences, avg word length 4.9
+2026-01-05 12:50:42 - Agent.LiteWorker-1 - INFO - 📤 Result sent back (0.00s)
+2026-01-05 12:50:42 - src.logging - INFO - Task completed. Execution time: 0.00s
+2026-01-05 12:50:42 - Agent.LiteWorker-1 - INFO - 📨 Picked up task task_8efb18bf3c4b: uppercase hello world
+2026-01-05 12:50:42 - Agent.LiteWorker-1 - INFO - 🛠️ Tool Triggered: String Manipulation
+2026-01-05 12:50:42 - Agent.LiteWorker-1 - INFO - 📝 Tool Output: Uppercase: HELLO WORLD
+2026-01-05 12:50:42 - Agent.LiteWorker-1 - INFO - 📤 Result sent back (0.00s)
+2026-01-05 12:50:42 - src.logging - INFO - Task completed. Execution time: 0.00s
+2026-01-05 12:50:42 - Agent.LiteWorker-1 - INFO - 📨 Picked up task task_26f2b973f4ea: lowercase HELLO WORLD
+2026-01-05 12:50:42 - Agent.LiteWorker-1 - INFO - 🛠️ Tool Triggered: String Manipulation
+2026-01-05 12:50:42 - Agent.LiteWorker-1 - INFO - 📝 Tool Output: Lowercase: hello world
+2026-01-05 12:50:42 - Agent.LiteWorker-1 - INFO - 📤 Result sent back (0.00s)
+2026-01-05 12:50:42 - src.logging - INFO - Task completed. Execution time: 0.00s
+2026-01-05 12:50:42 - Agent.LiteWorker-1 - INFO - 📨 Picked up task task_800ebee9a09f: reverse hello
+2026-01-05 12:50:42 - Agent.LiteWorker-1 - INFO - 🛠️ Tool Triggered: String Manipulation
+2026-01-05 12:50:42 - Agent.LiteWorker-1 - INFO - 📝 Tool Output: Reversed: olleh
+2026-01-05 12:50:42 - Agent.LiteWorker-1 - INFO - 📤 Result sent back (0.00s)
+2026-01-05 12:50:42 - src.logging - INFO - Task completed. Execution time: 0.00s
+2026-01-05 12:50:42 - Agent.LiteWorker-1 - INFO - 📨 Picked up task task_f78850ec3cff: summarize Machine learning is a subset of artificial intelligence that focuses on the development of algorithms. These algorithms can learn from data without being explicitly programmed. Deep learning is a branch of machine learning.
+2026-01-05 12:50:42 - Agent.LiteWorker-1 - INFO - 🛠️ Tool Triggered: Data Summary
+2026-01-05 12:50:42 - Agent.LiteWorker-1 - INFO - 📋 Tool Output: Summary: machine learning is a subset of artificial intelligence that focuses on the development of algorithms... (Total: 3 sentences, 223 chars)
+2026-01-05 12:50:42 - Agent.LiteWorker-1 - INFO - 📤 Result sent back (0.00s)
+2026-01-05 12:50:42 - src.logging - INFO - Task completed. Execution time: 0.00s
+2026-01-05 12:50:42 - Agent.LiteWorker-1 - INFO - 📨 Picked up task task_235e83e18685: count words the framework supports distributed task processing with kafka messaging and persistent storage.
+2026-01-05 12:50:42 - Agent.LiteWorker-1 - INFO - 🛠️ Tool Triggered: Text Analysis
+2026-01-05 12:50:42 - Agent.LiteWorker-1 - INFO - 📊 Tool Output: Text Analysis: 12 words, 95 chars, 1 sentences, avg word length 7.9
+2026-01-05 12:50:42 - Agent.LiteWorker-1 - INFO - 📤 Result sent back (0.00s)
+2026-01-05 12:50:42 - src.logging - INFO - Task completed. Execution time: 0.00s
+2026-01-05 12:50:42 - Agent.LiteWorker-1 - INFO - 📨 Picked up task task_3010db4bdf2f: calculate 150 * 4
+2026-01-05 12:50:42 - Agent.LiteWorker-1 - INFO - 🛠️ Tool Triggered: Calculator
+2026-01-05 12:50:42 - Agent.LiteWorker-1 - INFO - 🔢 Tool Output: Result: 600
+2026-01-05 12:50:42 - Agent.LiteWorker-1 - INFO - 📤 Result sent back (0.00s)
+2026-01-05 12:50:42 - src.logging - INFO - Task completed. Execution time: 0.00s
+2026-01-05 12:50:42 - Agent.LiteWorker-1 - INFO - 📨 Picked up task task_1b21a68adb08: calculate (100 + 50) / 2 - 25
+2026-01-05 12:50:42 - Agent.LiteWorker-1 - INFO - 🛠️ Tool Triggered: Calculator
+2026-01-05 12:50:42 - Agent.LiteWorker-1 - INFO - 🔢 Tool Output: Result: 50.0
+2026-01-05 12:50:42 - Agent.LiteWorker-1 - INFO - 📤 Result sent back (0.00s)
+2026-01-05 12:50:42 - src.logging - INFO - Task completed. Execution time: 0.00s
+2026-01-05 12:50:42 - Agent.LiteWorker-1 - INFO - 📨 Picked up task task_a06cb9136846: analyze text the quick brown fox jumps over the lazy dog. this is a second sentence. and a third.
+2026-01-05 12:50:42 - Agent.LiteWorker-1 - INFO - 🛠️ Tool Triggered: Text Analysis
+2026-01-05 12:50:42 - Agent.LiteWorker-1 - INFO - 📊 Tool Output: Text Analysis: 17 words, 84 chars, 3 sentences, avg word length 4.9
+2026-01-05 12:50:42 - Agent.LiteWorker-1 - INFO - 📤 Result sent back (0.00s)
+2026-01-05 12:50:42 - src.logging - INFO - Task completed. Execution time: 0.00s
+2026-01-05 12:50:42 - Agent.LiteWorker-1 - INFO - 📨 Picked up task task_0c9985d7adbd: uppercase hello world
+2026-01-05 12:50:42 - Agent.LiteWorker-1 - INFO - 🛠️ Tool Triggered: String Manipulation
+2026-01-05 12:50:42 - Agent.LiteWorker-1 - INFO - 📝 Tool Output: Uppercase: HELLO WORLD
+2026-01-05 12:50:42 - Agent.LiteWorker-1 - INFO - 📤 Result sent back (0.00s)
+2026-01-05 12:50:42 - src.logging - INFO - Task completed. Execution time: 0.00s
+2026-01-05 12:50:42 - Agent.LiteWorker-1 - INFO - 📨 Picked up task task_10008a03d8bb: lowercase HELLO WORLD
+2026-01-05 12:50:42 - Agent.LiteWorker-1 - INFO - 🛠️ Tool Triggered: String Manipulation
+2026-01-05 12:50:42 - Agent.LiteWorker-1 - INFO - 📝 Tool Output: Lowercase: hello world
+2026-01-05 12:50:42 - Agent.LiteWorker-1 - INFO - 📤 Result sent back (0.00s)
+2026-01-05 12:50:42 - src.logging - INFO - Task completed. Execution time: 0.00s
+2026-01-05 12:50:42 - Agent.LiteWorker-1 - INFO - 📨 Picked up task task_c7b6b6134483: reverse hello
+2026-01-05 12:50:42 - Agent.LiteWorker-1 - INFO - 🛠️ Tool Triggered: String Manipulation
+2026-01-05 12:50:42 - Agent.LiteWorker-1 - INFO - 📝 Tool Output: Reversed: olleh
+2026-01-05 12:50:42 - Agent.LiteWorker-1 - INFO - 📤 Result sent back (0.00s)
+2026-01-05 12:50:42 - src.logging - INFO - Task completed. Execution time: 0.00s
+2026-01-05 12:50:42 - Agent.LiteWorker-1 - INFO - 📨 Picked up task task_cb29f797598d: summarize Machine learning is a subset of artificial intelligence that focuses on the development of algorithms. These algorithms can learn from data without being explicitly programmed. Deep learning is a branch of machine learning.
+2026-01-05 12:50:42 - Agent.LiteWorker-1 - INFO - 🛠️ Tool Triggered: Data Summary
+2026-01-05 12:50:42 - Agent.LiteWorker-1 - INFO - 📋 Tool Output: Summary: machine learning is a subset of artificial intelligence that focuses on the development of algorithms... (Total: 3 sentences, 223 chars)
+2026-01-05 12:50:42 - Agent.LiteWorker-1 - INFO - 📤 Result sent back (0.00s)
+2026-01-05 12:50:42 - src.logging - INFO - Task completed. Execution time: 0.00s
+2026-01-05 12:50:42 - Agent.LiteWorker-1 - INFO - 📨 Picked up task task_3b4c412d73b4: count words the framework supports distributed task processing with kafka messaging and persistent storage.
+2026-01-05 12:50:42 - Agent.LiteWorker-1 - INFO - 🛠️ Tool Triggered: Text Analysis
+2026-01-05 12:50:42 - Agent.LiteWorker-1 - INFO - 📊 Tool Output: Text Analysis: 12 words, 95 chars, 1 sentences, avg word length 7.9
+2026-01-05 12:50:42 - Agent.LiteWorker-1 - INFO - 📤 Result sent back (0.00s)
+2026-01-05 12:50:42 - src.logging - INFO - Task completed. Execution time: 0.00s
+2026-01-05 12:50:42 - Agent.LiteWorker-1 - INFO - 📨 Picked up task task_7bac6052a3e2: calculate 10 + 5
+2026-01-05 12:50:42 - Agent.LiteWorker-1 - INFO - 🛠️ Tool Triggered: Calculator
+2026-01-05 12:50:42 - Agent.LiteWorker-1 - INFO - 🔢 Tool Output: Result: 15
+2026-01-05 12:50:42 - Agent.LiteWorker-1 - INFO - 📤 Result sent back (0.00s)
+2026-01-05 12:50:42 - src.logging - INFO - Task completed. Execution time: 0.00s
+2026-01-05 21:28:16 - Agent.LiteWorker-1 - INFO - 🔌 Connecting to Kafka...
+2026-01-05 21:28:16 - Agent.LiteWorker-1 - INFO - ✅ Ready (Lite Mode - No Heavy AI Model)
+2026-01-05 21:28:16 - Agent.LiteWorker-1 - INFO - 👂 Listening for tasks...
+2026-01-05 22:00:41 - src.load_balancer - INFO - LoadBalancer initialized with strategy: round_robin
+2026-01-05 22:45:41 - src.load_balancer - INFO - LoadBalancer initialized with strategy: round_robin
+2026-01-05 22:45:42 - realtime - INFO - Kafka realtime consumer started
+2026-01-05 22:45:42 - realtime - INFO - Realtime listener thread launched
+2026-01-05 22:47:19 - src.load_balancer - INFO - LoadBalancer initialized with strategy: round_robin
+2026-01-05 22:47:19 - realtime - INFO - Kafka realtime consumer started
+2026-01-05 22:47:19 - realtime - INFO - Realtime listener thread launched
+2026-01-05 22:47:19 - realtime - ERROR - Realtime Kafka listener error: There is no current event loop in thread 'Thread-2 (_kafka_listener_thread)'.
+2026-01-05 22:47:19 - src.api - INFO - Starting API server on 127.0.0.1:8000
+2026-01-05 22:47:22 - realtime - INFO - WebSocket client connected. Total: 1
+2026-01-05 22:48:20 - src.orchestrator.scheduler - INFO - 📅 Task Scheduler initialized
+2026-01-05 22:48:20 - src.orchestrator.scheduler - INFO - ✅ Task Scheduler started
+2026-01-05 22:48:26 - realtime - INFO - WebSocket client disconnected. Total: 0
+2026-01-05 22:48:27 - realtime - INFO - WebSocket client connected. Total: 1
+2026-01-05 22:48:50 - src.orchestrator.scheduler - ERROR - Error in task scheduler: (sqlite3.OperationalError) no such column: tasks.priority
+[SQL: SELECT tasks.id AS tasks_id, tasks.description AS tasks_description, tasks.status AS tasks_status, tasks.priority AS tasks_priority, tasks.assigned_agent AS tasks_assigned_agent, tasks.result AS tasks_result, tasks.error AS tasks_error, tasks.workflow_id AS tasks_workflow_id, tasks.batch_id AS tasks_batch_id, tasks.scheduled_time AS tasks_scheduled_time, tasks.retry_count AS tasks_retry_count, tasks.max_retries AS tasks_max_retries, tasks.next_retry_time AS tasks_next_retry_time, tasks.depends_on AS tasks_depends_on, tasks.created_at AS tasks_created_at, tasks.started_at AS tasks_started_at, tasks.completed_at AS tasks_completed_at, tasks.execution_time AS tasks_execution_time 
+FROM tasks 
+WHERE tasks.status = ? AND tasks.scheduled_time <= ?]
+[parameters: ('SCHEDULED', '2026-01-05 17:18:50.215720')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-01-05 22:49:14 - Agent.Lite Agent v2 - INFO - 🔌 Connecting to Kafka...
+2026-01-05 22:49:14 - Agent.Lite Agent v2 - INFO - ✅ Ready (Lite Mode - Enhanced with Retry & Dependencies)
+2026-01-05 22:49:14 - Agent.Lite Agent v2 - INFO - 👂 Listening for tasks...
+2026-01-05 22:49:20 - src.orchestrator.scheduler - ERROR - Error in task scheduler: (sqlite3.OperationalError) no such column: tasks.priority
+[SQL: SELECT tasks.id AS tasks_id, tasks.description AS tasks_description, tasks.status AS tasks_status, tasks.priority AS tasks_priority, tasks.assigned_agent AS tasks_assigned_agent, tasks.result AS tasks_result, tasks.error AS tasks_error, tasks.workflow_id AS tasks_workflow_id, tasks.batch_id AS tasks_batch_id, tasks.scheduled_time AS tasks_scheduled_time, tasks.retry_count AS tasks_retry_count, tasks.max_retries AS tasks_max_retries, tasks.next_retry_time AS tasks_next_retry_time, tasks.depends_on AS tasks_depends_on, tasks.created_at AS tasks_created_at, tasks.started_at AS tasks_started_at, tasks.completed_at AS tasks_completed_at, tasks.execution_time AS tasks_execution_time 
+FROM tasks 
+WHERE tasks.status = ? AND tasks.scheduled_time <= ?]
+[parameters: ('SCHEDULED', '2026-01-05 17:19:20.203281')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-01-05 22:49:24 - Agent.Lite Agent v2 - ERROR - Error in retry processor: (sqlite3.OperationalError) no such column: tasks.priority
+[SQL: SELECT tasks.id AS tasks_id, tasks.description AS tasks_description, tasks.status AS tasks_status, tasks.priority AS tasks_priority, tasks.assigned_agent AS tasks_assigned_agent, tasks.result AS tasks_result, tasks.error AS tasks_error, tasks.workflow_id AS tasks_workflow_id, tasks.batch_id AS tasks_batch_id, tasks.scheduled_time AS tasks_scheduled_time, tasks.retry_count AS tasks_retry_count, tasks.max_retries AS tasks_max_retries, tasks.next_retry_time AS tasks_next_retry_time, tasks.depends_on AS tasks_depends_on, tasks.created_at AS tasks_created_at, tasks.started_at AS tasks_started_at, tasks.completed_at AS tasks_completed_at, tasks.execution_time AS tasks_execution_time 
+FROM tasks 
+WHERE tasks.status = ? AND tasks.next_retry_time <= ?]
+[parameters: ('RETRYING', '2026-01-05 17:19:24.940115')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-01-05 22:49:34 - Agent.Lite Agent v2 - ERROR - Error in retry processor: (sqlite3.OperationalError) no such column: tasks.priority
+[SQL: SELECT tasks.id AS tasks_id, tasks.description AS tasks_description, tasks.status AS tasks_status, tasks.priority AS tasks_priority, tasks.assigned_agent AS tasks_assigned_agent, tasks.result AS tasks_result, tasks.error AS tasks_error, tasks.workflow_id AS tasks_workflow_id, tasks.batch_id AS tasks_batch_id, tasks.scheduled_time AS tasks_scheduled_time, tasks.retry_count AS tasks_retry_count, tasks.max_retries AS tasks_max_retries, tasks.next_retry_time AS tasks_next_retry_time, tasks.depends_on AS tasks_depends_on, tasks.created_at AS tasks_created_at, tasks.started_at AS tasks_started_at, tasks.completed_at AS tasks_completed_at, tasks.execution_time AS tasks_execution_time 
+FROM tasks 
+WHERE tasks.status = ? AND tasks.next_retry_time <= ?]
+[parameters: ('RETRYING', '2026-01-05 17:19:34.958986')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-01-05 22:49:44 - Agent.Lite Agent v2 - ERROR - Error in retry processor: (sqlite3.OperationalError) no such column: tasks.priority
+[SQL: SELECT tasks.id AS tasks_id, tasks.description AS tasks_description, tasks.status AS tasks_status, tasks.priority AS tasks_priority, tasks.assigned_agent AS tasks_assigned_agent, tasks.result AS tasks_result, tasks.error AS tasks_error, tasks.workflow_id AS tasks_workflow_id, tasks.batch_id AS tasks_batch_id, tasks.scheduled_time AS tasks_scheduled_time, tasks.retry_count AS tasks_retry_count, tasks.max_retries AS tasks_max_retries, tasks.next_retry_time AS tasks_next_retry_time, tasks.depends_on AS tasks_depends_on, tasks.created_at AS tasks_created_at, tasks.started_at AS tasks_started_at, tasks.completed_at AS tasks_completed_at, tasks.execution_time AS tasks_execution_time 
+FROM tasks 
+WHERE tasks.status = ? AND tasks.next_retry_time <= ?]
+[parameters: ('RETRYING', '2026-01-05 17:19:44.983438')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-01-05 22:49:50 - src.orchestrator.scheduler - ERROR - Error in task scheduler: (sqlite3.OperationalError) no such column: tasks.priority
+[SQL: SELECT tasks.id AS tasks_id, tasks.description AS tasks_description, tasks.status AS tasks_status, tasks.priority AS tasks_priority, tasks.assigned_agent AS tasks_assigned_agent, tasks.result AS tasks_result, tasks.error AS tasks_error, tasks.workflow_id AS tasks_workflow_id, tasks.batch_id AS tasks_batch_id, tasks.scheduled_time AS tasks_scheduled_time, tasks.retry_count AS tasks_retry_count, tasks.max_retries AS tasks_max_retries, tasks.next_retry_time AS tasks_next_retry_time, tasks.depends_on AS tasks_depends_on, tasks.created_at AS tasks_created_at, tasks.started_at AS tasks_started_at, tasks.completed_at AS tasks_completed_at, tasks.execution_time AS tasks_execution_time 
+FROM tasks 
+WHERE tasks.status = ? AND tasks.scheduled_time <= ?]
+[parameters: ('SCHEDULED', '2026-01-05 17:19:50.204687')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-01-05 22:49:54 - Agent.Lite Agent v2 - ERROR - Error in retry processor: (sqlite3.OperationalError) no such column: tasks.priority
+[SQL: SELECT tasks.id AS tasks_id, tasks.description AS tasks_description, tasks.status AS tasks_status, tasks.priority AS tasks_priority, tasks.assigned_agent AS tasks_assigned_agent, tasks.result AS tasks_result, tasks.error AS tasks_error, tasks.workflow_id AS tasks_workflow_id, tasks.batch_id AS tasks_batch_id, tasks.scheduled_time AS tasks_scheduled_time, tasks.retry_count AS tasks_retry_count, tasks.max_retries AS tasks_max_retries, tasks.next_retry_time AS tasks_next_retry_time, tasks.depends_on AS tasks_depends_on, tasks.created_at AS tasks_created_at, tasks.started_at AS tasks_started_at, tasks.completed_at AS tasks_completed_at, tasks.execution_time AS tasks_execution_time 
+FROM tasks 
+WHERE tasks.status = ? AND tasks.next_retry_time <= ?]
+[parameters: ('RETRYING', '2026-01-05 17:19:54.996683')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-01-05 22:50:05 - Agent.Lite Agent v2 - ERROR - Error in retry processor: (sqlite3.OperationalError) no such column: tasks.priority
+[SQL: SELECT tasks.id AS tasks_id, tasks.description AS tasks_description, tasks.status AS tasks_status, tasks.priority AS tasks_priority, tasks.assigned_agent AS tasks_assigned_agent, tasks.result AS tasks_result, tasks.error AS tasks_error, tasks.workflow_id AS tasks_workflow_id, tasks.batch_id AS tasks_batch_id, tasks.scheduled_time AS tasks_scheduled_time, tasks.retry_count AS tasks_retry_count, tasks.max_retries AS tasks_max_retries, tasks.next_retry_time AS tasks_next_retry_time, tasks.depends_on AS tasks_depends_on, tasks.created_at AS tasks_created_at, tasks.started_at AS tasks_started_at, tasks.completed_at AS tasks_completed_at, tasks.execution_time AS tasks_execution_time 
+FROM tasks 
+WHERE tasks.status = ? AND tasks.next_retry_time <= ?]
+[parameters: ('RETRYING', '2026-01-05 17:20:05.007039')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-01-05 22:50:15 - Agent.Lite Agent v2 - ERROR - Error in retry processor: (sqlite3.OperationalError) no such column: tasks.priority
+[SQL: SELECT tasks.id AS tasks_id, tasks.description AS tasks_description, tasks.status AS tasks_status, tasks.priority AS tasks_priority, tasks.assigned_agent AS tasks_assigned_agent, tasks.result AS tasks_result, tasks.error AS tasks_error, tasks.workflow_id AS tasks_workflow_id, tasks.batch_id AS tasks_batch_id, tasks.scheduled_time AS tasks_scheduled_time, tasks.retry_count AS tasks_retry_count, tasks.max_retries AS tasks_max_retries, tasks.next_retry_time AS tasks_next_retry_time, tasks.depends_on AS tasks_depends_on, tasks.created_at AS tasks_created_at, tasks.started_at AS tasks_started_at, tasks.completed_at AS tasks_completed_at, tasks.execution_time AS tasks_execution_time 
+FROM tasks 
+WHERE tasks.status = ? AND tasks.next_retry_time <= ?]
+[parameters: ('RETRYING', '2026-01-05 17:20:15.020571')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-01-05 22:50:20 - src.orchestrator.scheduler - ERROR - Error in task scheduler: (sqlite3.OperationalError) no such column: tasks.priority
+[SQL: SELECT tasks.id AS tasks_id, tasks.description AS tasks_description, tasks.status AS tasks_status, tasks.priority AS tasks_priority, tasks.assigned_agent AS tasks_assigned_agent, tasks.result AS tasks_result, tasks.error AS tasks_error, tasks.workflow_id AS tasks_workflow_id, tasks.batch_id AS tasks_batch_id, tasks.scheduled_time AS tasks_scheduled_time, tasks.retry_count AS tasks_retry_count, tasks.max_retries AS tasks_max_retries, tasks.next_retry_time AS tasks_next_retry_time, tasks.depends_on AS tasks_depends_on, tasks.created_at AS tasks_created_at, tasks.started_at AS tasks_started_at, tasks.completed_at AS tasks_completed_at, tasks.execution_time AS tasks_execution_time 
+FROM tasks 
+WHERE tasks.status = ? AND tasks.scheduled_time <= ?]
+[parameters: ('SCHEDULED', '2026-01-05 17:20:20.207186')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-01-05 22:50:25 - Agent.Lite Agent v2 - ERROR - Error in retry processor: (sqlite3.OperationalError) no such column: tasks.priority
+[SQL: SELECT tasks.id AS tasks_id, tasks.description AS tasks_description, tasks.status AS tasks_status, tasks.priority AS tasks_priority, tasks.assigned_agent AS tasks_assigned_agent, tasks.result AS tasks_result, tasks.error AS tasks_error, tasks.workflow_id AS tasks_workflow_id, tasks.batch_id AS tasks_batch_id, tasks.scheduled_time AS tasks_scheduled_time, tasks.retry_count AS tasks_retry_count, tasks.max_retries AS tasks_max_retries, tasks.next_retry_time AS tasks_next_retry_time, tasks.depends_on AS tasks_depends_on, tasks.created_at AS tasks_created_at, tasks.started_at AS tasks_started_at, tasks.completed_at AS tasks_completed_at, tasks.execution_time AS tasks_execution_time 
+FROM tasks 
+WHERE tasks.status = ? AND tasks.next_retry_time <= ?]
+[parameters: ('RETRYING', '2026-01-05 17:20:25.039336')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-01-05 22:50:26 - realtime - INFO - WebSocket client disconnected. Total: 0
+2026-01-05 22:50:26 - realtime - INFO - WebSocket client connected. Total: 1
+2026-01-05 22:50:35 - Agent.Lite Agent v2 - ERROR - Error in retry processor: (sqlite3.OperationalError) no such column: tasks.priority
+[SQL: SELECT tasks.id AS tasks_id, tasks.description AS tasks_description, tasks.status AS tasks_status, tasks.priority AS tasks_priority, tasks.assigned_agent AS tasks_assigned_agent, tasks.result AS tasks_result, tasks.error AS tasks_error, tasks.workflow_id AS tasks_workflow_id, tasks.batch_id AS tasks_batch_id, tasks.scheduled_time AS tasks_scheduled_time, tasks.retry_count AS tasks_retry_count, tasks.max_retries AS tasks_max_retries, tasks.next_retry_time AS tasks_next_retry_time, tasks.depends_on AS tasks_depends_on, tasks.created_at AS tasks_created_at, tasks.started_at AS tasks_started_at, tasks.completed_at AS tasks_completed_at, tasks.execution_time AS tasks_execution_time 
+FROM tasks 
+WHERE tasks.status = ? AND tasks.next_retry_time <= ?]
+[parameters: ('RETRYING', '2026-01-05 17:20:35.064180')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-01-05 22:50:45 - Agent.Lite Agent v2 - ERROR - Error in retry processor: (sqlite3.OperationalError) no such column: tasks.priority
+[SQL: SELECT tasks.id AS tasks_id, tasks.description AS tasks_description, tasks.status AS tasks_status, tasks.priority AS tasks_priority, tasks.assigned_agent AS tasks_assigned_agent, tasks.result AS tasks_result, tasks.error AS tasks_error, tasks.workflow_id AS tasks_workflow_id, tasks.batch_id AS tasks_batch_id, tasks.scheduled_time AS tasks_scheduled_time, tasks.retry_count AS tasks_retry_count, tasks.max_retries AS tasks_max_retries, tasks.next_retry_time AS tasks_next_retry_time, tasks.depends_on AS tasks_depends_on, tasks.created_at AS tasks_created_at, tasks.started_at AS tasks_started_at, tasks.completed_at AS tasks_completed_at, tasks.execution_time AS tasks_execution_time 
+FROM tasks 
+WHERE tasks.status = ? AND tasks.next_retry_time <= ?]
+[parameters: ('RETRYING', '2026-01-05 17:20:45.084212')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-01-05 22:50:50 - src.orchestrator.scheduler - ERROR - Error in task scheduler: (sqlite3.OperationalError) no such column: tasks.priority
+[SQL: SELECT tasks.id AS tasks_id, tasks.description AS tasks_description, tasks.status AS tasks_status, tasks.priority AS tasks_priority, tasks.assigned_agent AS tasks_assigned_agent, tasks.result AS tasks_result, tasks.error AS tasks_error, tasks.workflow_id AS tasks_workflow_id, tasks.batch_id AS tasks_batch_id, tasks.scheduled_time AS tasks_scheduled_time, tasks.retry_count AS tasks_retry_count, tasks.max_retries AS tasks_max_retries, tasks.next_retry_time AS tasks_next_retry_time, tasks.depends_on AS tasks_depends_on, tasks.created_at AS tasks_created_at, tasks.started_at AS tasks_started_at, tasks.completed_at AS tasks_completed_at, tasks.execution_time AS tasks_execution_time 
+FROM tasks 
+WHERE tasks.status = ? AND tasks.scheduled_time <= ?]
+[parameters: ('SCHEDULED', '2026-01-05 17:20:50.199579')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-01-05 22:50:55 - Agent.Lite Agent v2 - ERROR - Error in retry processor: (sqlite3.OperationalError) no such column: tasks.priority
+[SQL: SELECT tasks.id AS tasks_id, tasks.description AS tasks_description, tasks.status AS tasks_status, tasks.priority AS tasks_priority, tasks.assigned_agent AS tasks_assigned_agent, tasks.result AS tasks_result, tasks.error AS tasks_error, tasks.workflow_id AS tasks_workflow_id, tasks.batch_id AS tasks_batch_id, tasks.scheduled_time AS tasks_scheduled_time, tasks.retry_count AS tasks_retry_count, tasks.max_retries AS tasks_max_retries, tasks.next_retry_time AS tasks_next_retry_time, tasks.depends_on AS tasks_depends_on, tasks.created_at AS tasks_created_at, tasks.started_at AS tasks_started_at, tasks.completed_at AS tasks_completed_at, tasks.execution_time AS tasks_execution_time 
+FROM tasks 
+WHERE tasks.status = ? AND tasks.next_retry_time <= ?]
+[parameters: ('RETRYING', '2026-01-05 17:20:55.093620')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-01-05 22:51:05 - Agent.Lite Agent v2 - ERROR - Error in retry processor: (sqlite3.OperationalError) no such column: tasks.priority
+[SQL: SELECT tasks.id AS tasks_id, tasks.description AS tasks_description, tasks.status AS tasks_status, tasks.priority AS tasks_priority, tasks.assigned_agent AS tasks_assigned_agent, tasks.result AS tasks_result, tasks.error AS tasks_error, tasks.workflow_id AS tasks_workflow_id, tasks.batch_id AS tasks_batch_id, tasks.scheduled_time AS tasks_scheduled_time, tasks.retry_count AS tasks_retry_count, tasks.max_retries AS tasks_max_retries, tasks.next_retry_time AS tasks_next_retry_time, tasks.depends_on AS tasks_depends_on, tasks.created_at AS tasks_created_at, tasks.started_at AS tasks_started_at, tasks.completed_at AS tasks_completed_at, tasks.execution_time AS tasks_execution_time 
+FROM tasks 
+WHERE tasks.status = ? AND tasks.next_retry_time <= ?]
+[parameters: ('RETRYING', '2026-01-05 17:21:05.107341')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-01-05 22:51:15 - Agent.Lite Agent v2 - ERROR - Error in retry processor: (sqlite3.OperationalError) no such column: tasks.priority
+[SQL: SELECT tasks.id AS tasks_id, tasks.description AS tasks_description, tasks.status AS tasks_status, tasks.priority AS tasks_priority, tasks.assigned_agent AS tasks_assigned_agent, tasks.result AS tasks_result, tasks.error AS tasks_error, tasks.workflow_id AS tasks_workflow_id, tasks.batch_id AS tasks_batch_id, tasks.scheduled_time AS tasks_scheduled_time, tasks.retry_count AS tasks_retry_count, tasks.max_retries AS tasks_max_retries, tasks.next_retry_time AS tasks_next_retry_time, tasks.depends_on AS tasks_depends_on, tasks.created_at AS tasks_created_at, tasks.started_at AS tasks_started_at, tasks.completed_at AS tasks_completed_at, tasks.execution_time AS tasks_execution_time 
+FROM tasks 
+WHERE tasks.status = ? AND tasks.next_retry_time <= ?]
+[parameters: ('RETRYING', '2026-01-05 17:21:15.118813')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-01-05 22:51:20 - src.orchestrator.scheduler - ERROR - Error in task scheduler: (sqlite3.OperationalError) no such column: tasks.priority
+[SQL: SELECT tasks.id AS tasks_id, tasks.description AS tasks_description, tasks.status AS tasks_status, tasks.priority AS tasks_priority, tasks.assigned_agent AS tasks_assigned_agent, tasks.result AS tasks_result, tasks.error AS tasks_error, tasks.workflow_id AS tasks_workflow_id, tasks.batch_id AS tasks_batch_id, tasks.scheduled_time AS tasks_scheduled_time, tasks.retry_count AS tasks_retry_count, tasks.max_retries AS tasks_max_retries, tasks.next_retry_time AS tasks_next_retry_time, tasks.depends_on AS tasks_depends_on, tasks.created_at AS tasks_created_at, tasks.started_at AS tasks_started_at, tasks.completed_at AS tasks_completed_at, tasks.execution_time AS tasks_execution_time 
+FROM tasks 
+WHERE tasks.status = ? AND tasks.scheduled_time <= ?]
+[parameters: ('SCHEDULED', '2026-01-05 17:21:20.231433')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-01-05 22:51:25 - Agent.Lite Agent v2 - ERROR - Error in retry processor: (sqlite3.OperationalError) no such column: tasks.priority
+[SQL: SELECT tasks.id AS tasks_id, tasks.description AS tasks_description, tasks.status AS tasks_status, tasks.priority AS tasks_priority, tasks.assigned_agent AS tasks_assigned_agent, tasks.result AS tasks_result, tasks.error AS tasks_error, tasks.workflow_id AS tasks_workflow_id, tasks.batch_id AS tasks_batch_id, tasks.scheduled_time AS tasks_scheduled_time, tasks.retry_count AS tasks_retry_count, tasks.max_retries AS tasks_max_retries, tasks.next_retry_time AS tasks_next_retry_time, tasks.depends_on AS tasks_depends_on, tasks.created_at AS tasks_created_at, tasks.started_at AS tasks_started_at, tasks.completed_at AS tasks_completed_at, tasks.execution_time AS tasks_execution_time 
+FROM tasks 
+WHERE tasks.status = ? AND tasks.next_retry_time <= ?]
+[parameters: ('RETRYING', '2026-01-05 17:21:25.127663')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-01-05 22:51:35 - Agent.Lite Agent v2 - ERROR - Error in retry processor: (sqlite3.OperationalError) no such column: tasks.priority
+[SQL: SELECT tasks.id AS tasks_id, tasks.description AS tasks_description, tasks.status AS tasks_status, tasks.priority AS tasks_priority, tasks.assigned_agent AS tasks_assigned_agent, tasks.result AS tasks_result, tasks.error AS tasks_error, tasks.workflow_id AS tasks_workflow_id, tasks.batch_id AS tasks_batch_id, tasks.scheduled_time AS tasks_scheduled_time, tasks.retry_count AS tasks_retry_count, tasks.max_retries AS tasks_max_retries, tasks.next_retry_time AS tasks_next_retry_time, tasks.depends_on AS tasks_depends_on, tasks.created_at AS tasks_created_at, tasks.started_at AS tasks_started_at, tasks.completed_at AS tasks_completed_at, tasks.execution_time AS tasks_execution_time 
+FROM tasks 
+WHERE tasks.status = ? AND tasks.next_retry_time <= ?]
+[parameters: ('RETRYING', '2026-01-05 17:21:35.138132')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-01-05 22:51:45 - Agent.Lite Agent v2 - ERROR - Error in retry processor: (sqlite3.OperationalError) no such column: tasks.priority
+[SQL: SELECT tasks.id AS tasks_id, tasks.description AS tasks_description, tasks.status AS tasks_status, tasks.priority AS tasks_priority, tasks.assigned_agent AS tasks_assigned_agent, tasks.result AS tasks_result, tasks.error AS tasks_error, tasks.workflow_id AS tasks_workflow_id, tasks.batch_id AS tasks_batch_id, tasks.scheduled_time AS tasks_scheduled_time, tasks.retry_count AS tasks_retry_count, tasks.max_retries AS tasks_max_retries, tasks.next_retry_time AS tasks_next_retry_time, tasks.depends_on AS tasks_depends_on, tasks.created_at AS tasks_created_at, tasks.started_at AS tasks_started_at, tasks.completed_at AS tasks_completed_at, tasks.execution_time AS tasks_execution_time 
+FROM tasks 
+WHERE tasks.status = ? AND tasks.next_retry_time <= ?]
+[parameters: ('RETRYING', '2026-01-05 17:21:45.150767')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-01-05 22:51:50 - src.orchestrator.scheduler - ERROR - Error in task scheduler: (sqlite3.OperationalError) no such column: tasks.priority
+[SQL: SELECT tasks.id AS tasks_id, tasks.description AS tasks_description, tasks.status AS tasks_status, tasks.priority AS tasks_priority, tasks.assigned_agent AS tasks_assigned_agent, tasks.result AS tasks_result, tasks.error AS tasks_error, tasks.workflow_id AS tasks_workflow_id, tasks.batch_id AS tasks_batch_id, tasks.scheduled_time AS tasks_scheduled_time, tasks.retry_count AS tasks_retry_count, tasks.max_retries AS tasks_max_retries, tasks.next_retry_time AS tasks_next_retry_time, tasks.depends_on AS tasks_depends_on, tasks.created_at AS tasks_created_at, tasks.started_at AS tasks_started_at, tasks.completed_at AS tasks_completed_at, tasks.execution_time AS tasks_execution_time 
+FROM tasks 
+WHERE tasks.status = ? AND tasks.scheduled_time <= ?]
+[parameters: ('SCHEDULED', '2026-01-05 17:21:50.214600')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-01-05 22:51:55 - Agent.Lite Agent v2 - ERROR - Error in retry processor: (sqlite3.OperationalError) no such column: tasks.priority
+[SQL: SELECT tasks.id AS tasks_id, tasks.description AS tasks_description, tasks.status AS tasks_status, tasks.priority AS tasks_priority, tasks.assigned_agent AS tasks_assigned_agent, tasks.result AS tasks_result, tasks.error AS tasks_error, tasks.workflow_id AS tasks_workflow_id, tasks.batch_id AS tasks_batch_id, tasks.scheduled_time AS tasks_scheduled_time, tasks.retry_count AS tasks_retry_count, tasks.max_retries AS tasks_max_retries, tasks.next_retry_time AS tasks_next_retry_time, tasks.depends_on AS tasks_depends_on, tasks.created_at AS tasks_created_at, tasks.started_at AS tasks_started_at, tasks.completed_at AS tasks_completed_at, tasks.execution_time AS tasks_execution_time 
+FROM tasks 
+WHERE tasks.status = ? AND tasks.next_retry_time <= ?]
+[parameters: ('RETRYING', '2026-01-05 17:21:55.160091')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-01-05 22:52:05 - Agent.Lite Agent v2 - ERROR - Error in retry processor: (sqlite3.OperationalError) no such column: tasks.priority
+[SQL: SELECT tasks.id AS tasks_id, tasks.description AS tasks_description, tasks.status AS tasks_status, tasks.priority AS tasks_priority, tasks.assigned_agent AS tasks_assigned_agent, tasks.result AS tasks_result, tasks.error AS tasks_error, tasks.workflow_id AS tasks_workflow_id, tasks.batch_id AS tasks_batch_id, tasks.scheduled_time AS tasks_scheduled_time, tasks.retry_count AS tasks_retry_count, tasks.max_retries AS tasks_max_retries, tasks.next_retry_time AS tasks_next_retry_time, tasks.depends_on AS tasks_depends_on, tasks.created_at AS tasks_created_at, tasks.started_at AS tasks_started_at, tasks.completed_at AS tasks_completed_at, tasks.execution_time AS tasks_execution_time 
+FROM tasks 
+WHERE tasks.status = ? AND tasks.next_retry_time <= ?]
+[parameters: ('RETRYING', '2026-01-05 17:22:05.175432')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-01-05 22:52:08 - realtime - INFO - WebSocket client disconnected. Total: 0
+2026-01-05 22:52:08 - realtime - INFO - WebSocket client connected. Total: 1
+2026-01-05 22:52:15 - Agent.Lite Agent v2 - ERROR - Error in retry processor: (sqlite3.OperationalError) no such column: tasks.priority
+[SQL: SELECT tasks.id AS tasks_id, tasks.description AS tasks_description, tasks.status AS tasks_status, tasks.priority AS tasks_priority, tasks.assigned_agent AS tasks_assigned_agent, tasks.result AS tasks_result, tasks.error AS tasks_error, tasks.workflow_id AS tasks_workflow_id, tasks.batch_id AS tasks_batch_id, tasks.scheduled_time AS tasks_scheduled_time, tasks.retry_count AS tasks_retry_count, tasks.max_retries AS tasks_max_retries, tasks.next_retry_time AS tasks_next_retry_time, tasks.depends_on AS tasks_depends_on, tasks.created_at AS tasks_created_at, tasks.started_at AS tasks_started_at, tasks.completed_at AS tasks_completed_at, tasks.execution_time AS tasks_execution_time 
+FROM tasks 
+WHERE tasks.status = ? AND tasks.next_retry_time <= ?]
+[parameters: ('RETRYING', '2026-01-05 17:22:15.187785')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-01-05 22:52:20 - src.orchestrator.scheduler - ERROR - Error in task scheduler: (sqlite3.OperationalError) no such column: tasks.priority
+[SQL: SELECT tasks.id AS tasks_id, tasks.description AS tasks_description, tasks.status AS tasks_status, tasks.priority AS tasks_priority, tasks.assigned_agent AS tasks_assigned_agent, tasks.result AS tasks_result, tasks.error AS tasks_error, tasks.workflow_id AS tasks_workflow_id, tasks.batch_id AS tasks_batch_id, tasks.scheduled_time AS tasks_scheduled_time, tasks.retry_count AS tasks_retry_count, tasks.max_retries AS tasks_max_retries, tasks.next_retry_time AS tasks_next_retry_time, tasks.depends_on AS tasks_depends_on, tasks.created_at AS tasks_created_at, tasks.started_at AS tasks_started_at, tasks.completed_at AS tasks_completed_at, tasks.execution_time AS tasks_execution_time 
+FROM tasks 
+WHERE tasks.status = ? AND tasks.scheduled_time <= ?]
+[parameters: ('SCHEDULED', '2026-01-05 17:22:20.202138')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-01-05 22:52:25 - Agent.Lite Agent v2 - ERROR - Error in retry processor: (sqlite3.OperationalError) no such column: tasks.priority
+[SQL: SELECT tasks.id AS tasks_id, tasks.description AS tasks_description, tasks.status AS tasks_status, tasks.priority AS tasks_priority, tasks.assigned_agent AS tasks_assigned_agent, tasks.result AS tasks_result, tasks.error AS tasks_error, tasks.workflow_id AS tasks_workflow_id, tasks.batch_id AS tasks_batch_id, tasks.scheduled_time AS tasks_scheduled_time, tasks.retry_count AS tasks_retry_count, tasks.max_retries AS tasks_max_retries, tasks.next_retry_time AS tasks_next_retry_time, tasks.depends_on AS tasks_depends_on, tasks.created_at AS tasks_created_at, tasks.started_at AS tasks_started_at, tasks.completed_at AS tasks_completed_at, tasks.execution_time AS tasks_execution_time 
+FROM tasks 
+WHERE tasks.status = ? AND tasks.next_retry_time <= ?]
+[parameters: ('RETRYING', '2026-01-05 17:22:25.199935')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-01-05 22:52:35 - Agent.Lite Agent v2 - ERROR - Error in retry processor: (sqlite3.OperationalError) no such column: tasks.priority
+[SQL: SELECT tasks.id AS tasks_id, tasks.description AS tasks_description, tasks.status AS tasks_status, tasks.priority AS tasks_priority, tasks.assigned_agent AS tasks_assigned_agent, tasks.result AS tasks_result, tasks.error AS tasks_error, tasks.workflow_id AS tasks_workflow_id, tasks.batch_id AS tasks_batch_id, tasks.scheduled_time AS tasks_scheduled_time, tasks.retry_count AS tasks_retry_count, tasks.max_retries AS tasks_max_retries, tasks.next_retry_time AS tasks_next_retry_time, tasks.depends_on AS tasks_depends_on, tasks.created_at AS tasks_created_at, tasks.started_at AS tasks_started_at, tasks.completed_at AS tasks_completed_at, tasks.execution_time AS tasks_execution_time 
+FROM tasks 
+WHERE tasks.status = ? AND tasks.next_retry_time <= ?]
+[parameters: ('RETRYING', '2026-01-05 17:22:35.215643')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-01-05 22:52:45 - Agent.Lite Agent v2 - ERROR - Error in retry processor: (sqlite3.OperationalError) no such column: tasks.priority
+[SQL: SELECT tasks.id AS tasks_id, tasks.description AS tasks_description, tasks.status AS tasks_status, tasks.priority AS tasks_priority, tasks.assigned_agent AS tasks_assigned_agent, tasks.result AS tasks_result, tasks.error AS tasks_error, tasks.workflow_id AS tasks_workflow_id, tasks.batch_id AS tasks_batch_id, tasks.scheduled_time AS tasks_scheduled_time, tasks.retry_count AS tasks_retry_count, tasks.max_retries AS tasks_max_retries, tasks.next_retry_time AS tasks_next_retry_time, tasks.depends_on AS tasks_depends_on, tasks.created_at AS tasks_created_at, tasks.started_at AS tasks_started_at, tasks.completed_at AS tasks_completed_at, tasks.execution_time AS tasks_execution_time 
+FROM tasks 
+WHERE tasks.status = ? AND tasks.next_retry_time <= ?]
+[parameters: ('RETRYING', '2026-01-05 17:22:45.235180')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-01-05 22:52:50 - src.orchestrator.scheduler - ERROR - Error in task scheduler: (sqlite3.OperationalError) no such column: tasks.priority
+[SQL: SELECT tasks.id AS tasks_id, tasks.description AS tasks_description, tasks.status AS tasks_status, tasks.priority AS tasks_priority, tasks.assigned_agent AS tasks_assigned_agent, tasks.result AS tasks_result, tasks.error AS tasks_error, tasks.workflow_id AS tasks_workflow_id, tasks.batch_id AS tasks_batch_id, tasks.scheduled_time AS tasks_scheduled_time, tasks.retry_count AS tasks_retry_count, tasks.max_retries AS tasks_max_retries, tasks.next_retry_time AS tasks_next_retry_time, tasks.depends_on AS tasks_depends_on, tasks.created_at AS tasks_created_at, tasks.started_at AS tasks_started_at, tasks.completed_at AS tasks_completed_at, tasks.execution_time AS tasks_execution_time 
+FROM tasks 
+WHERE tasks.status = ? AND tasks.scheduled_time <= ?]
+[parameters: ('SCHEDULED', '2026-01-05 17:22:50.204643')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-01-05 22:52:55 - Agent.Lite Agent v2 - ERROR - Error in retry processor: (sqlite3.OperationalError) no such column: tasks.priority
+[SQL: SELECT tasks.id AS tasks_id, tasks.description AS tasks_description, tasks.status AS tasks_status, tasks.priority AS tasks_priority, tasks.assigned_agent AS tasks_assigned_agent, tasks.result AS tasks_result, tasks.error AS tasks_error, tasks.workflow_id AS tasks_workflow_id, tasks.batch_id AS tasks_batch_id, tasks.scheduled_time AS tasks_scheduled_time, tasks.retry_count AS tasks_retry_count, tasks.max_retries AS tasks_max_retries, tasks.next_retry_time AS tasks_next_retry_time, tasks.depends_on AS tasks_depends_on, tasks.created_at AS tasks_created_at, tasks.started_at AS tasks_started_at, tasks.completed_at AS tasks_completed_at, tasks.execution_time AS tasks_execution_time 
+FROM tasks 
+WHERE tasks.status = ? AND tasks.next_retry_time <= ?]
+[parameters: ('RETRYING', '2026-01-05 17:22:55.260336')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-01-05 22:53:05 - Agent.Lite Agent v2 - ERROR - Error in retry processor: (sqlite3.OperationalError) no such column: tasks.priority
+[SQL: SELECT tasks.id AS tasks_id, tasks.description AS tasks_description, tasks.status AS tasks_status, tasks.priority AS tasks_priority, tasks.assigned_agent AS tasks_assigned_agent, tasks.result AS tasks_result, tasks.error AS tasks_error, tasks.workflow_id AS tasks_workflow_id, tasks.batch_id AS tasks_batch_id, tasks.scheduled_time AS tasks_scheduled_time, tasks.retry_count AS tasks_retry_count, tasks.max_retries AS tasks_max_retries, tasks.next_retry_time AS tasks_next_retry_time, tasks.depends_on AS tasks_depends_on, tasks.created_at AS tasks_created_at, tasks.started_at AS tasks_started_at, tasks.completed_at AS tasks_completed_at, tasks.execution_time AS tasks_execution_time 
+FROM tasks 
+WHERE tasks.status = ? AND tasks.next_retry_time <= ?]
+[parameters: ('RETRYING', '2026-01-05 17:23:05.273538')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-01-05 22:53:15 - Agent.Lite Agent v2 - ERROR - Error in retry processor: (sqlite3.OperationalError) no such column: tasks.priority
+[SQL: SELECT tasks.id AS tasks_id, tasks.description AS tasks_description, tasks.status AS tasks_status, tasks.priority AS tasks_priority, tasks.assigned_agent AS tasks_assigned_agent, tasks.result AS tasks_result, tasks.error AS tasks_error, tasks.workflow_id AS tasks_workflow_id, tasks.batch_id AS tasks_batch_id, tasks.scheduled_time AS tasks_scheduled_time, tasks.retry_count AS tasks_retry_count, tasks.max_retries AS tasks_max_retries, tasks.next_retry_time AS tasks_next_retry_time, tasks.depends_on AS tasks_depends_on, tasks.created_at AS tasks_created_at, tasks.started_at AS tasks_started_at, tasks.completed_at AS tasks_completed_at, tasks.execution_time AS tasks_execution_time 
+FROM tasks 
+WHERE tasks.status = ? AND tasks.next_retry_time <= ?]
+[parameters: ('RETRYING', '2026-01-05 17:23:15.290956')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-01-05 22:53:20 - src.orchestrator.scheduler - ERROR - Error in task scheduler: (sqlite3.OperationalError) no such column: tasks.priority
+[SQL: SELECT tasks.id AS tasks_id, tasks.description AS tasks_description, tasks.status AS tasks_status, tasks.priority AS tasks_priority, tasks.assigned_agent AS tasks_assigned_agent, tasks.result AS tasks_result, tasks.error AS tasks_error, tasks.workflow_id AS tasks_workflow_id, tasks.batch_id AS tasks_batch_id, tasks.scheduled_time AS tasks_scheduled_time, tasks.retry_count AS tasks_retry_count, tasks.max_retries AS tasks_max_retries, tasks.next_retry_time AS tasks_next_retry_time, tasks.depends_on AS tasks_depends_on, tasks.created_at AS tasks_created_at, tasks.started_at AS tasks_started_at, tasks.completed_at AS tasks_completed_at, tasks.execution_time AS tasks_execution_time 
+FROM tasks 
+WHERE tasks.status = ? AND tasks.scheduled_time <= ?]
+[parameters: ('SCHEDULED', '2026-01-05 17:23:20.206938')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-01-05 22:53:25 - Agent.Lite Agent v2 - ERROR - Error in retry processor: (sqlite3.OperationalError) no such column: tasks.priority
+[SQL: SELECT tasks.id AS tasks_id, tasks.description AS tasks_description, tasks.status AS tasks_status, tasks.priority AS tasks_priority, tasks.assigned_agent AS tasks_assigned_agent, tasks.result AS tasks_result, tasks.error AS tasks_error, tasks.workflow_id AS tasks_workflow_id, tasks.batch_id AS tasks_batch_id, tasks.scheduled_time AS tasks_scheduled_time, tasks.retry_count AS tasks_retry_count, tasks.max_retries AS tasks_max_retries, tasks.next_retry_time AS tasks_next_retry_time, tasks.depends_on AS tasks_depends_on, tasks.created_at AS tasks_created_at, tasks.started_at AS tasks_started_at, tasks.completed_at AS tasks_completed_at, tasks.execution_time AS tasks_execution_time 
+FROM tasks 
+WHERE tasks.status = ? AND tasks.next_retry_time <= ?]
+[parameters: ('RETRYING', '2026-01-05 17:23:25.304444')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-01-05 22:53:35 - Agent.Lite Agent v2 - ERROR - Error in retry processor: (sqlite3.OperationalError) no such column: tasks.priority
+[SQL: SELECT tasks.id AS tasks_id, tasks.description AS tasks_description, tasks.status AS tasks_status, tasks.priority AS tasks_priority, tasks.assigned_agent AS tasks_assigned_agent, tasks.result AS tasks_result, tasks.error AS tasks_error, tasks.workflow_id AS tasks_workflow_id, tasks.batch_id AS tasks_batch_id, tasks.scheduled_time AS tasks_scheduled_time, tasks.retry_count AS tasks_retry_count, tasks.max_retries AS tasks_max_retries, tasks.next_retry_time AS tasks_next_retry_time, tasks.depends_on AS tasks_depends_on, tasks.created_at AS tasks_created_at, tasks.started_at AS tasks_started_at, tasks.completed_at AS tasks_completed_at, tasks.execution_time AS tasks_execution_time 
+FROM tasks 
+WHERE tasks.status = ? AND tasks.next_retry_time <= ?]
+[parameters: ('RETRYING', '2026-01-05 17:23:35.319367')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-01-05 22:53:45 - Agent.Lite Agent v2 - ERROR - Error in retry processor: (sqlite3.OperationalError) no such column: tasks.priority
+[SQL: SELECT tasks.id AS tasks_id, tasks.description AS tasks_description, tasks.status AS tasks_status, tasks.priority AS tasks_priority, tasks.assigned_agent AS tasks_assigned_agent, tasks.result AS tasks_result, tasks.error AS tasks_error, tasks.workflow_id AS tasks_workflow_id, tasks.batch_id AS tasks_batch_id, tasks.scheduled_time AS tasks_scheduled_time, tasks.retry_count AS tasks_retry_count, tasks.max_retries AS tasks_max_retries, tasks.next_retry_time AS tasks_next_retry_time, tasks.depends_on AS tasks_depends_on, tasks.created_at AS tasks_created_at, tasks.started_at AS tasks_started_at, tasks.completed_at AS tasks_completed_at, tasks.execution_time AS tasks_execution_time 
+FROM tasks 
+WHERE tasks.status = ? AND tasks.next_retry_time <= ?]
+[parameters: ('RETRYING', '2026-01-05 17:23:45.342732')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-01-05 22:53:50 - src.orchestrator.scheduler - ERROR - Error in task scheduler: (sqlite3.OperationalError) no such column: tasks.priority
+[SQL: SELECT tasks.id AS tasks_id, tasks.description AS tasks_description, tasks.status AS tasks_status, tasks.priority AS tasks_priority, tasks.assigned_agent AS tasks_assigned_agent, tasks.result AS tasks_result, tasks.error AS tasks_error, tasks.workflow_id AS tasks_workflow_id, tasks.batch_id AS tasks_batch_id, tasks.scheduled_time AS tasks_scheduled_time, tasks.retry_count AS tasks_retry_count, tasks.max_retries AS tasks_max_retries, tasks.next_retry_time AS tasks_next_retry_time, tasks.depends_on AS tasks_depends_on, tasks.created_at AS tasks_created_at, tasks.started_at AS tasks_started_at, tasks.completed_at AS tasks_completed_at, tasks.execution_time AS tasks_execution_time 
+FROM tasks 
+WHERE tasks.status = ? AND tasks.scheduled_time <= ?]
+[parameters: ('SCHEDULED', '2026-01-05 17:23:50.203232')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-01-05 22:53:55 - Agent.Lite Agent v2 - ERROR - Error in retry processor: (sqlite3.OperationalError) no such column: tasks.priority
+[SQL: SELECT tasks.id AS tasks_id, tasks.description AS tasks_description, tasks.status AS tasks_status, tasks.priority AS tasks_priority, tasks.assigned_agent AS tasks_assigned_agent, tasks.result AS tasks_result, tasks.error AS tasks_error, tasks.workflow_id AS tasks_workflow_id, tasks.batch_id AS tasks_batch_id, tasks.scheduled_time AS tasks_scheduled_time, tasks.retry_count AS tasks_retry_count, tasks.max_retries AS tasks_max_retries, tasks.next_retry_time AS tasks_next_retry_time, tasks.depends_on AS tasks_depends_on, tasks.created_at AS tasks_created_at, tasks.started_at AS tasks_started_at, tasks.completed_at AS tasks_completed_at, tasks.execution_time AS tasks_execution_time 
+FROM tasks 
+WHERE tasks.status = ? AND tasks.next_retry_time <= ?]
+[parameters: ('RETRYING', '2026-01-05 17:23:55.371924')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-01-05 22:54:05 - Agent.Lite Agent v2 - ERROR - Error in retry processor: (sqlite3.OperationalError) no such column: tasks.priority
+[SQL: SELECT tasks.id AS tasks_id, tasks.description AS tasks_description, tasks.status AS tasks_status, tasks.priority AS tasks_priority, tasks.assigned_agent AS tasks_assigned_agent, tasks.result AS tasks_result, tasks.error AS tasks_error, tasks.workflow_id AS tasks_workflow_id, tasks.batch_id AS tasks_batch_id, tasks.scheduled_time AS tasks_scheduled_time, tasks.retry_count AS tasks_retry_count, tasks.max_retries AS tasks_max_retries, tasks.next_retry_time AS tasks_next_retry_time, tasks.depends_on AS tasks_depends_on, tasks.created_at AS tasks_created_at, tasks.started_at AS tasks_started_at, tasks.completed_at AS tasks_completed_at, tasks.execution_time AS tasks_execution_time 
+FROM tasks 
+WHERE tasks.status = ? AND tasks.next_retry_time <= ?]
+[parameters: ('RETRYING', '2026-01-05 17:24:05.386402')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-01-05 22:54:15 - Agent.Lite Agent v2 - ERROR - Error in retry processor: (sqlite3.OperationalError) no such column: tasks.priority
+[SQL: SELECT tasks.id AS tasks_id, tasks.description AS tasks_description, tasks.status AS tasks_status, tasks.priority AS tasks_priority, tasks.assigned_agent AS tasks_assigned_agent, tasks.result AS tasks_result, tasks.error AS tasks_error, tasks.workflow_id AS tasks_workflow_id, tasks.batch_id AS tasks_batch_id, tasks.scheduled_time AS tasks_scheduled_time, tasks.retry_count AS tasks_retry_count, tasks.max_retries AS tasks_max_retries, tasks.next_retry_time AS tasks_next_retry_time, tasks.depends_on AS tasks_depends_on, tasks.created_at AS tasks_created_at, tasks.started_at AS tasks_started_at, tasks.completed_at AS tasks_completed_at, tasks.execution_time AS tasks_execution_time 
+FROM tasks 
+WHERE tasks.status = ? AND tasks.next_retry_time <= ?]
+[parameters: ('RETRYING', '2026-01-05 17:24:15.402418')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-01-05 22:54:20 - src.orchestrator.scheduler - ERROR - Error in task scheduler: (sqlite3.OperationalError) no such column: tasks.priority
+[SQL: SELECT tasks.id AS tasks_id, tasks.description AS tasks_description, tasks.status AS tasks_status, tasks.priority AS tasks_priority, tasks.assigned_agent AS tasks_assigned_agent, tasks.result AS tasks_result, tasks.error AS tasks_error, tasks.workflow_id AS tasks_workflow_id, tasks.batch_id AS tasks_batch_id, tasks.scheduled_time AS tasks_scheduled_time, tasks.retry_count AS tasks_retry_count, tasks.max_retries AS tasks_max_retries, tasks.next_retry_time AS tasks_next_retry_time, tasks.depends_on AS tasks_depends_on, tasks.created_at AS tasks_created_at, tasks.started_at AS tasks_started_at, tasks.completed_at AS tasks_completed_at, tasks.execution_time AS tasks_execution_time 
+FROM tasks 
+WHERE tasks.status = ? AND tasks.scheduled_time <= ?]
+[parameters: ('SCHEDULED', '2026-01-05 17:24:20.212498')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-01-05 22:54:25 - Agent.Lite Agent v2 - ERROR - Error in retry processor: (sqlite3.OperationalError) no such column: tasks.priority
+[SQL: SELECT tasks.id AS tasks_id, tasks.description AS tasks_description, tasks.status AS tasks_status, tasks.priority AS tasks_priority, tasks.assigned_agent AS tasks_assigned_agent, tasks.result AS tasks_result, tasks.error AS tasks_error, tasks.workflow_id AS tasks_workflow_id, tasks.batch_id AS tasks_batch_id, tasks.scheduled_time AS tasks_scheduled_time, tasks.retry_count AS tasks_retry_count, tasks.max_retries AS tasks_max_retries, tasks.next_retry_time AS tasks_next_retry_time, tasks.depends_on AS tasks_depends_on, tasks.created_at AS tasks_created_at, tasks.started_at AS tasks_started_at, tasks.completed_at AS tasks_completed_at, tasks.execution_time AS tasks_execution_time 
+FROM tasks 
+WHERE tasks.status = ? AND tasks.next_retry_time <= ?]
+[parameters: ('RETRYING', '2026-01-05 17:24:25.419589')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)

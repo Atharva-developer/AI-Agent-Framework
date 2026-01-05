@@ -1,9 +1,20 @@
 ## Core runtime
 fastapi
 uvicorn[standard]
+pydantic
+
+## Database
+sqlalchemy
+python-dotenv
 
 ## Messaging
 kafka-python
+
+## Scheduling & Task Management
+APScheduler
+
+## File handling & CSV
+pandas
 
 ## AI / ML (core)
 torch
